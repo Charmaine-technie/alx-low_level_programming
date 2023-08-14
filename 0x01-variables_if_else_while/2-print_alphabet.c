@@ -1,9 +1,12 @@
 #include <stdio.h>
  /**
   * main - Prints the alphabetic
-  * Return: Always (Success)
+  *
+  * Return: Always 0 (Success)
   */
+
 int main(void)
+
 {
 	char c;
 
